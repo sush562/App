@@ -12,7 +12,7 @@ You can download this via:
 - Directly on phone: (You may need to allow access to outside applications in your android phone. Don't worry, my app has no malicious code or any other concern as such.)
   - <img src="https://github.com/sush562/App/raw/master/Cuisine_Central/Snaps/download_qr.png" width="200" height="200"></img>
 
-**If you like my work, please give this a star from top right corner. Also, you can view my profile <a href="https://github.com/sush562/aboutme">here</a>.**
+**If you like my work, please give this a star from top right corner.**
 
 ### Credits
 
