@@ -16,7 +16,7 @@ You can download this via:
 
 ### Credits
 
-This app is powered by <a href="www.zomato.com" target="_blank">Zomato<a> APIs. I am thankful to their resources that helped me build this application.
+This app is powered by <a href="https://www.zomato.com/" target="_blank">Zomato<a> APIs. I am thankful to their resources that helped me build this application.
 
 Since their is a limit to api call placed by Zomato per day, this app is not meant for extensive usage as such.
 
