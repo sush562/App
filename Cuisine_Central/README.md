@@ -8,7 +8,7 @@ Using this mobile app, a user is able to search various restaurants in any selec
 
 You can download this via:
 - Google Playstore: https://play.google.com/store/apps/details?id=com.cuisinedemoapp
-  - <img src="https://github.com/sush562/App/raw/master/Cuisine_Central/Snaps/download_qr.png" width="200" height="200"></img>
+  - <img src="https://github.com/sush562/App/blob/master/Cuisine_Central/Snaps/qr_google_play.png" width="200" height="200"></img>
 - Directly on phone: (You may need to allow access to outside applications in your android phone. Don't worry, my app has no malicious code or any other concern as such.)
   - <img src="https://github.com/sush562/App/raw/master/Cuisine_Central/Snaps/download_qr.png" width="200" height="200"></img>
 
