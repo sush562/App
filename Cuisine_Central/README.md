@@ -7,8 +7,8 @@ This app is merely a demo, having limited functionalities and features. The purp
 Using this mobile app, a user is able to search various restaurants in any selected location. It displays a list of restaurants and user can view the restaurant details by selecting any restaurant on home page screen. 
 
 You can download this via:
-- Google Playstore: (Coming Soon)
-- Amazon Playstore: (Coming Soon)
+- Google Playstore: https://play.google.com/store/apps/details?id=com.cuisinedemoapp
+  - <img src="https://github.com/sush562/App/raw/master/Cuisine_Central/Snaps/download_qr.png" width="200" height="200"></img>
 - Directly on phone: (You may need to allow access to outside applications in your android phone. Don't worry, my app has no malicious code or any other concern as such.)
   - <img src="https://github.com/sush562/App/raw/master/Cuisine_Central/Snaps/download_qr.png" width="200" height="200"></img>
 
