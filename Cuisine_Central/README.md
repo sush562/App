@@ -14,6 +14,8 @@ You can download this via:
 
 <img src="https://github.com/sush562/App/raw/master/Cuisine_Central/Snaps/download_qr.png" width="200" height="200"></img>
 
+You can view the code <a href="https://github.com/sush562/App/tree/master/Cuisine_Central/Code/CuisineDemoApp">here</a> if you like.
+
 **If you like my work, please give this a star from top right corner.**
 
 ### Credits
